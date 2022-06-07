@@ -1,0 +1,12 @@
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll.config
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\bin\Debug\EntityFramework.dll
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\bin\Debug\EntityFramework.xml
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CopyComplete
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
